@@ -17,5 +17,10 @@
     "@types/node": "^20.0.0",
     "@types/react": "19.0.0",
     "@types/react-dom": "19.0.0"
+  },
+  "nx": {
+    "nxCloudImplicitDependencies": [
+      "68753471425d0c6a2348ba2e:@nx-cloud-impl-dep-two/nx-cloud-impl-dep-two"
+    ]
   }
 }
